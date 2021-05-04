@@ -1,0 +1,15 @@
+{
+  "name": "conceptos-basicos-node",
+  "version": "0.0.1",
+  "description": "Paquete de pruebas sobre conceptos básicos de Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Arnold",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
